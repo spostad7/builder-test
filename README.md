@@ -12,7 +12,7 @@ The program's result should be something like the design below:
 - Install the dependencies `yarn install`
 - Run the project `yarn dev`
 - Open the project from `http://localhost:5173/`
-- You can check the iframe in the `src/pages/Home.jsx`
+- You can check the iframe within `src/pages/Home.jsx`file
 
 ### Key highlights
 
@@ -22,7 +22,7 @@ The program's result should be something like the design below:
 
 ### Submission of the project:
 
-You have 3 days to complete this project from the date of this message. In case you need more time to complete it, or if you have any questions, please reply on Telegram or LinkedIn.
+You have 3 days to complete this project. In case you need more time to complete it, or if you have any questions, please reply on Telegram or LinkedIn.
 To submit your completed project, please send to this email at hosseinshabani.work@gmail.com with a link to your GitHub project.
 
 ## Good luck!
