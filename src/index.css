@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.tree-li {
+    cursor: pointer;
+    /* line-height: 20px; */
+}
+
+/* .tree-ul {
+    position: relative;
+}
+.tree-ul:before {
+    content: '';
+    position: absolute;
+    width: 1px;
+    height: 100%;
+    background-color: #f1f2f4;
+} */
+
+.tree-li-tag {
+    /* padding-left: 20px; */
+    flex-grow: 1;
+}
+
+.open + .tree-ul {
+    padding-left: 1rem;
+}
